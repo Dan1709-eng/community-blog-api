@@ -7,7 +7,7 @@ Architecture: **Routes → Controllers → Services → Models → MongoDB**
 
 ## Technologies
 
-- Node.js (>= 20.19, a currently supported LTS)
+- Node.js (>= 20.19.0; use a currently supported LTS release)
 - Express 5
 - TypeScript 7
 - MongoDB with Mongoose 9
